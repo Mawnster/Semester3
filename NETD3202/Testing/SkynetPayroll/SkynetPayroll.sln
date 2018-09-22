@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkynetPayroll", "SkynetPayroll\SkynetPayroll.csproj", "{91ADA77F-69F6-47DC-8044-100FE9E85A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ADA77F-69F6-47DC-8044-100FE9E85A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ADA77F-69F6-47DC-8044-100FE9E85A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ADA77F-69F6-47DC-8044-100FE9E85A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ADA77F-69F6-47DC-8044-100FE9E85A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

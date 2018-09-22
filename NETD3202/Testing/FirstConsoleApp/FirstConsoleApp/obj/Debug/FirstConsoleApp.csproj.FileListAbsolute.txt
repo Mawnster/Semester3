@@ -1,0 +1,6 @@
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\zacha\Desktop\Semester3\NETD3202\Testing\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

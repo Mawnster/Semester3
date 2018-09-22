@@ -1,0 +1,15 @@
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\bin\Debug\Payroll2014.exe.config
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\bin\Debug\Payroll2014.exe
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\bin\Debug\Payroll2014.pdb
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\bin\Debug\Payroll2014.xml
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.Resources.resources
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.frmPayroll.resources
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.frmSummary.resources
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.vbproj.GenerateResource.Cache
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.exe
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.xml
+C:\Users\100040553\Documents\Courses 2013 2014\VISB 6201 2014\Demos\PresentationAndBusinessTiers\Payroll2014\Payroll2014\obj\Debug\Payroll2014.pdb
+C:\Users\zacha\Desktop\Semester3\NETD3202\Samples\Payroll2014\Payroll2014\bin\Debug\Payroll2014.exe.config
+C:\Users\zacha\Desktop\Semester3\NETD3202\Samples\Payroll2014\Payroll2014\obj\Debug\Payroll2014.exe
+C:\Users\zacha\Desktop\Semester3\NETD3202\Samples\Payroll2014\Payroll2014\obj\Debug\Payroll2014.xml
+C:\Users\zacha\Desktop\Semester3\NETD3202\Samples\Payroll2014\Payroll2014\obj\Debug\Payroll2014.pdb
